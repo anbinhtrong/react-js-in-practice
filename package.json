@@ -1,0 +1,28 @@
+{
+  "name": "react-js-in-practice",
+  "version": "1.0.0",
+  "description": "React Js in Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbinhtrong/react-js-in-practice.git"
+  },
+  "keywords": [
+    "React",
+    "Js"
+  ],
+  "author": "Minh Tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbinhtrong/react-js-in-practice/issues"
+  },
+  "homepage": "https://github.com/anbinhtrong/react-js-in-practice#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.14.0"
+  }
+}
